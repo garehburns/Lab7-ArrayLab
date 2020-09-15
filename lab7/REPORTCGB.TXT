@@ -1,0 +1,13 @@
+State        City        Repair Code                                            
+
+ST100ATHOMAS JONES   ANNISTON  RE                                               
+
+ST200AHARRY MORGAN   DECATUR   YE                                               
+
+ST300ASHARON SIMMS   FLORALA   GR                                               
+
+ST100GTYSON GOODMAN  ATLANTA   YE                                               
+
+ST200GHELEN MOMAN    AUGUSTA   YE                                               
+
+ST300GELLEN HELMS    JESUP     RE                                               

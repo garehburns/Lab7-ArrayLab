@@ -1,0 +1,13 @@
+State        City        Repair Code                                            
+
+  AL        ANNISTON       RED                                                  
+
+  AL        DECATUR        YELLOW                                               
+
+  AL        FLORALA        GREEN                                                
+
+  GA        ATLANTA        YELLOW                                               
+
+  GA        AUGUSTA        YELLOW                                               
+
+  GA        JESUP          RED                                                  
